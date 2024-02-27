@@ -1,1 +1,1 @@
-Python code takes YouTube video URL as a terminal argument and retrieves data such as view count and video title as well as downloads the highest possible resolution of the video to a specified directory.
+Python code takes YouTube video URL as a terminal argument and retrieves data such as view count and video title as well as downloads the highest possible resolution of the video to a specified directory, which is normally available to logged in and premium users.
